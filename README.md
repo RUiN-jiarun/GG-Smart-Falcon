@@ -14,7 +14,7 @@ _🦌 网页小游戏 🥛_
 
 改编自：[Github Page](https://arcxingye.github.io/EatKano/index.html)  
 
-在线游戏：http://www.ruin.net.cn/gg-smart-falcon
+在线游戏：https://ruin.net.cn/GG-Smart-Falcon/
 
 Have Fun.
 
