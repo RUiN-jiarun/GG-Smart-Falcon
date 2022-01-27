@@ -12,7 +12,9 @@ _🦌 网页小游戏 🥛_
 
 小游戏：寄掉寄寄子
 
-改编自：[Github Page](https://arcxingye.github.io/EatKano/index.html)
+改编自：[Github Page](https://arcxingye.github.io/EatKano/index.html)  
+
+在线游戏：https://www.ruin.net.cn/gg-smart-falcon
 
 Have Fun.
 
